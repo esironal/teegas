@@ -11,7 +11,7 @@ Although this is using Google spreadsheet as a database, it still uses files as 
 2. Manually modify config.php in the rootfolder especially, (1) SITETITLE with site title, (2) URL_PUBLIC with URL, (3) Google spreadsheet key. Others are not mandatory to change.
 3. Change name of _htaccess to .htaccess and update the root directory in case if you install Teegas on subdirectory.
 
-### Requirements
+## Requirements
 
 Teegas requires PHP 5.3 and mod_rewrite functionality.
 
